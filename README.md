@@ -41,7 +41,6 @@ A comprehensive Plagiarism & AI-Usage Validation Engine that validates "human-in
 
 ```bash
 # Clone the repository
-cd turnitin_engine
 
 # Install dependencies
 pip install -r requirements.txt
