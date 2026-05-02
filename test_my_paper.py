@@ -150,7 +150,7 @@ def test_paper(pdf_path):
 
 if __name__ == '__main__':
     # Test with your PDF
-    pdf_path = r"6016798.pdf"
+    pdf_path = r"sample_paper.pdf"
     
     print("Starting plagiarism detection test...")
     print(f"Target PDF: {pdf_path}\n")
